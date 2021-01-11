@@ -1,0 +1,98 @@
+body{
+    text-align: center;
+}
+
+.top-container{
+    background-color: skyblue;
+    position: relative;
+    padding-top: 100px;
+    font-family: 'sacramento', cursive;
+    
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+}
+
+.Bio{
+    text-decoration: underline;
+}
+.water-treatment{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.code-skill-decription{
+    clear: left;
+}
+
+.Logo-design-skill-decription{
+    clear: right;
+}
+
+.logo-design{
+    width: 25%;
+    float: right;
+    margin-left: 10px;
+}
+    
+.img-2{
+    position: absolute;
+    position: 300px;
+    bottom: 300px;
+
+}
+.img-1{
+    position: absolute;
+    right: 300px;
+    top: 10px;
+}
+.src{
+    width: 200px; height: 200px;
+}
+
+body {
+ background-color: skyblue;
+ color: white;
+ padding: 20px;
+ font-family: Arial, Verdana, sans-serif;}
+
+ h1 {
+ background-color: skyblue;
+ color: #66BFBF;
+ padding: inherit;
+ font-family: 'sacramento', cursive;}
+ h2{
+    background-color: hsla(0,100%,100%,0.5);
+    color: #66BFBF;
+    padding: inherit;
+
+ }
+ p {
+ padding: 5px;
+ margin: 0px;}
+ p.zero {
+ background-color: rgb(238,62,128);}
+ p.one {
+ background-color: rgb(244,90,139);}
+ p.two {
+ background-color: rgb(243,106,152);}
+ p.three {
+ background-color: rgb(244,123,166);}
+ p.four {
+ background-color: rgb(245,140,178);}
+ p.five {
+ background-color: rgb(246,159,192);}
+ p.six {
+ background-color: rgb(245,176,204);}
+ p.seven {
+ background-color: rgb(0,187,136);}
+ p.eight {
+ background-color: rgb(140,202,242);}
+ p.nine {
+ background-color: rgb(114,193,240);}
